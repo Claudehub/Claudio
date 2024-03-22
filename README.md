@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Claudio, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Welcome, I'm Claudio, an <a href="https://www.linkedin.com/in/claudio-suarez-b4b684207/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
