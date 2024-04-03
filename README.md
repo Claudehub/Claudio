@@ -4,8 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Claudehub/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Claudehub/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Claudehub/ticket-lifecycle)
 
 
 <h2>Contact me 💬</h2>
